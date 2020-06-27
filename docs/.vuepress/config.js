@@ -13,12 +13,16 @@ module.exports= {
         displayAllHeaders: true,
         nav: [
             // {
-            //     text: "主站",
+            //     text: "大笑文档主站",
             //     link: "https://febeacon.com"
             // },
             {
                 text: "文档首页",
                 link: "/"
+            },
+            {
+                text: "Github",
+                link: "https://github.com/GoogleChromeLabs/page-lifecycle"
             }
         ],
         sidebar: [
