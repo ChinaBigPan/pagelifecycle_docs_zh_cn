@@ -2,6 +2,7 @@
 home: true
 heroImage: /images/logo.png
 heroText: PageLifecycle.js
+tagline: 页面生命周期兼容操作库
 actionText: v 0.1.2 →
 actionLink: /routes/
 meta:
