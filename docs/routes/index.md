@@ -147,4 +147,4 @@ PageLifecycle.js 库导出的是 `lifecycle`对象，它是`Lifecycle`类的一�
 
 ### 浏览器支持情况
 
-![image](/images/pagelifecycle_support.png)
+![image](/pagelifecycle_docs_zh_cn/images/pagelifecycle_support.png)
