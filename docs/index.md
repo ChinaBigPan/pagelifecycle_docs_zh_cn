@@ -13,7 +13,7 @@ meta:
   - name: feversion
     content: v 0.1.2
   - name: fetags
-    content: "[{'kind': 'iconbrowser', 'text': '浏览器'}, {'kind':'iconjs', 'text': 'js'}]"
+    content: "[{'kind': 'iconbrowser', 'text': '浏览器'}, {'kind':'iconjs', 'text': 'JS'}]"
 features:
   - title: 
     details: 
