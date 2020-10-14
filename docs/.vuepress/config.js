@@ -11,18 +11,15 @@ module.exports= {
     themeConfig: {
         activeHeaderLinks: true,
         displayAllHeaders: true,
+        logo: "/images/logo.png",
         nav: [
-            // {
-            //     text: "大笑文档主站",
-            //     link: "https://febeacon.com"
-            // },
+			{
+                text: "大笑文档",
+                link: "http://www.febeacon.com"
+            },
             {
                 text: "文档首页",
                 link: "/"
-            },
-            {
-                text: "Github",
-                link: "https://github.com/GoogleChromeLabs/page-lifecycle"
             }
         ],
         sidebar: [
